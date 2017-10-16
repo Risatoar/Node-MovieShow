@@ -1,0 +1,22 @@
+{
+  "name": "movieshow",
+  "version": "1.0.0",
+  "description": "node+mongodb搭建电影信息展示网站",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxiang9608/Movie-Show.git"
+  },
+  "keywords": [
+    "建站"
+  ],
+  "author": "risatoar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuxiang9608/Movie-Show/issues"
+  },
+  "homepage": "https://github.com/xuxiang9608/Movie-Show#readme"
+}
